@@ -1,4 +1,4 @@
-# DataScience_BootCamp_Project_Commons
+# DataScience Project Structure
 For initial Setup of any upcoming Project use this repository as go-to point.
 
 # To run Bash scripts
